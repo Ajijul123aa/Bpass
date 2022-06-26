@@ -1,7 +1,29 @@
-# Bpass
-# git clone git clone https://github.com/Ajijul123aa/Bpass
+
+```python
+# apt update && apt upgrade
+# apt install python
+# pip install mechanize lolcat
+# pip install requests bs4
+# pip install futures
+# apt install git
+# git clone https://github.com/Ajijul123aa/Bpass
+```
+#### RUN SCRIPT
+```python
 # cd Bpass
 # python Bpass.py
+```
+
+
+#### MY SOCIAL MEDIA
+
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/Ajijul123aa) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/Ajijul.Hasan.Jibon.Official75) <br>
+
+
+<h2> THANKS FOR VISIT ✘✘ <h2\>
+
+
 
 
 
