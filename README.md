@@ -6,6 +6,7 @@
 # pip install requests bs4
 # pip install futures
 # apt install git
+# rm -rf Bpass
 # git clone https://github.com/Ajijul123aa/Bpass
 ```
 #### RUN SCRIPT
